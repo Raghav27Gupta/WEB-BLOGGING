@@ -1,0 +1,7 @@
+1.php.ini
+file_uploads=On;
+2.config.ini
+$cfg['Servers'][$i]['password'] = 'raghav';
+3.in Php.ini
+set 
+=>error_reporting=E_ALL & ~E_DEPRECATED & ~E_STRICT & ~E_NOTICE & ~E_WARNING
